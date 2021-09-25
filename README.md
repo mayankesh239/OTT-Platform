@@ -6,7 +6,8 @@
 
 This is designed using tmdb api. It is used to get the information regarding various movies. Just type the naem of the movie and click search.
 
-## Link: https://theottplatform.netlify.app/
+## Link: 
+https://theottplatform.netlify.app/
 
 ### Built With
 
